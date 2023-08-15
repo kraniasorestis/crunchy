@@ -1,5 +1,6 @@
 # This is an input example
 # I got this simply from chatgpt by asking for "a list of character and location names from the world of Tolkien"
+# You should use any starting-point wordlist theme you think your target could like, and even mix them up.
 
 Frodo Baggins
 Gandalf
