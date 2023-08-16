@@ -13,7 +13,8 @@ Legolas
 Gimli
 Samwise Gamgee
 Gollum
-SarumanDáin Ironfoot
+Saruman
+Dáin Ironfoot
 Frerin
 Thorin Oakenshield
 The Shire
