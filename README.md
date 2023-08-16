@@ -13,7 +13,7 @@ Legolas
 Gimli
 Samwise Gamgee
 Gollum
-Saruman
+Saruman 
 Dáin Ironfoot
 Frerin
 Thorin Oakenshield
