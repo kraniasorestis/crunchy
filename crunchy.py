@@ -39,6 +39,9 @@ def add_chronologies(lines):
         for chronology in chronologies:
             chronology_lines.append(f"{line}{chronology}")
             chronology_lines.append(f"{line}-{chronology}")
+            reversed_chronology = chronology[::-1]
+            chronology_lines.append(f"{line}{reversed_chronology}")
+            chronology_lines.append(f"{line}-{reversed_chronology}")
     
     chronology_lines.extend(lines)  # Add original conjoined lines
     lowercase_lines = [line.lower() for line in lines]
