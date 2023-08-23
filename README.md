@@ -6,7 +6,7 @@ For the script to work you have to provide a file named "input.txt" in the same 
 
 The "input.txt" should contain a list of names from whatever you think your target is interested in. For instance if the taret likes LotR you could ask something like ChatGPT to give you a list of characters and location names from the world of LotR which should follow a wordlist formating (one item per line):
 
-Frodo Baggins \n
+Frodo Baggins
 Gandalf
 Aragorn
 Legolas
